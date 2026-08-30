@@ -1,0 +1,6 @@
+# API configuration
+assets/js/config.js
+
+# macOS
+.DS_Store
+**/.DS_Store
